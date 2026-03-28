@@ -372,6 +372,7 @@
       .stat-grid { grid-template-columns: 1fr; }
       h1 { max-width: 100%; }
     }
+
   </style>
 </head>
 <body>
@@ -394,7 +395,7 @@
         <div class="eyebrow">Senior Application Architect • Cloud-native Platforms • GenAI</div>
         <h1>Designing resilient software for scale, security, and real-world impact.</h1>
         <p class="subtitle">
-          I’m Gopi Kanth, a Senior Application Architect with 17+ years of experience building enterprise applications across insurance, healthcare, and supply chain. I focus on cloud-native platforms, multi-tenant SaaS, architecture governance, and AI-enabled product experiences.
+          I’m Gopi Kanth, a Senior Application Architect with 17+ years of experience on building enterprise applications across insurance, healthcare, and supply chain. I focus on cloud-native platforms, multi-tenant SaaS, architecture governance, and AI-enabled product experiences.
         </p>
         <div class="hero-actions">
           <a class="btn btn-primary" href="#contact">Let’s Connect</a>
@@ -438,6 +439,7 @@
         </div>
       </div>
     </div>
+
   </header>
 
   <main>
@@ -645,6 +647,7 @@
         </div>
       </div>
     </section>
+
   </main>
 
   <footer>
