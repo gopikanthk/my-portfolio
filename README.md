@@ -115,7 +115,6 @@
     }
 
     .hero-card::before {
-      content: "";
       position: absolute;
       inset: auto -10% -30% auto;
       width: 260px;
