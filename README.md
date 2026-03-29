@@ -638,7 +638,7 @@
             <div class="contact-link"><strong>Email</strong><span>k.g.kanth@gmail.com</span></div>
             <div class="contact-link"><strong>Location</strong><span>Hyderabad, India</span></div>
             <div class="contact-link"><strong>Open to</strong><span>Senior Architect • Principal Engineer • AI Platform Architect</span></div>
-            <div class="contact-link"><strong>GitHub / LinkedIn</strong><span>Add your profile links here</span></div>
+            <div class="contact-link"><strong>GitHub / LinkedIn</strong><span>[linkedin](https://www.linkedin.com/in/gopi-kanth/)</span></div>
           </div>
         </div>
       </div>
