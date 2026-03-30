@@ -145,6 +145,7 @@
       font-size: clamp(2.5rem, 5vw, 4.5rem);
       letter-spacing: -0.04em;
       max-width: 10ch;
+      text-align: right;
     }
 
     .subtitle {
