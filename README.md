@@ -417,7 +417,7 @@
               <span class="label">Records processed in high-volume distributed workloads</span>
             </div>
             <div class="stat">
-              <strong>99%</strong>
+              <strong>99.99%</strong>
               <span class="label">SLA-aligned solution design and operational focus</span>
             </div>
           </div>
